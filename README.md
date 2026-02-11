@@ -46,5 +46,5 @@ The project successfully transformed raw recruitment and hiring data into a stru
 
 ## 📊 Dashboard Preview
 
-![PowerBI-Data-Analytics-Dashboard preview](images/dashboard.png)
+![PowerBI-Data-Analytics-Dashboard preview](https://github.com/anilgaddam-pha/PowerBI-Data-Analytics-Dashboard/blob/main/dashboard.png)
 
